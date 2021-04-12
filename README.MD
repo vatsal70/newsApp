@@ -9,13 +9,9 @@ Under the repository name, click **Clone or download.**
 
 ## Pre-requisites
 ```
-python3
+python
 ```
 ```
 django
 ```
 
-## Author
-
-**Ashwin Joshi**
-**ashwin.joshi12@live.com**
